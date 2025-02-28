@@ -12,7 +12,7 @@ html, body {
 
 /* Fondo con imagen difuminada */
 .background {
-  background-image: url('https://tudominio.com/background.jpg');
+  background-image: url('https://juancamargosinco.github.io/customUIB2C/background.png');
   background-size: cover;
   background-position: center;
   filter: blur(8px);
