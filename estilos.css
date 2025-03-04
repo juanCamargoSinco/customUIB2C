@@ -84,3 +84,16 @@ button {
 button:hover {
   background: #005a9e;
 }
+
+
+div.social, div.divider {
+  display: none;
+}
+
+div.api_container{
+  padding-top:0;
+}
+
+.panel {
+  width: 100%!important
+}
