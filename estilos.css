@@ -89,3 +89,9 @@ button:hover {
 .buttons{
   padding: 50px;
 }
+
+#signInNamePhoneEmail {
+  position: absolute;
+  margin-top: -50px;
+}
+
