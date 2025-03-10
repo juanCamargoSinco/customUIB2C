@@ -25,8 +25,8 @@ html, body {
 /* Contenedor principal centrado */
 .login-container {
   width: 100%;
-  max-width: 500px;
-  /* margin: 8% auto; */
+  max-width: 530px;
+  margin: 0% auto;
   background: rgba(255, 255, 255, 0.95);
   padding: 40px;
   border-radius: 8px;
